@@ -19,7 +19,6 @@
 - 🔐 **Digi-Guard**: QR-based entry system that actually works (unlike my sleep schedule)
 - 🧳 **YatraZen**: Flutter travel app for finding peaceful spots (because we all need zen)
 - 🤖 **Face Recognition Research**: Making AI recognize faces faster than I recognize my mistakes
-- 🏛️ **Gov Dashboard**: Built for Mahesana District - 20+ projects, 50K+ citizens served
 - 💼 **Freelancing**: 5 projects completed and counting!
 
 ## 🛠️ My Arsenal
